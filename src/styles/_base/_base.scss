@@ -1,0 +1,13 @@
+// GRID
+$grid-width: 114rem;
+$gutter-vertical: 8rem;
+$gutter-horizontal: 6rem;
+
+// MIXINS
+@mixin  clearfix {
+    &::after {
+        content: "";
+        display: table;
+        clear: both;
+    }
+}
