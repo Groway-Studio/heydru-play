@@ -1,1 +1,15 @@
 @import '../styles/index.scss';
+
+.main{
+    background-image: url('https://via.placeholder.com/1800x800/000000');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    width: 100%;
+    .buttonComponent{
+        position: absolute;
+        right: 25%;
+    }
+}
+
