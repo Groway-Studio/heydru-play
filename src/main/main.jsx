@@ -1,10 +1,19 @@
-import './main.scss'
+import "./main.scss";
+import SynopsisBlock from '../components/synopsisBlock/synopsisBlock'
+import VideoDetailsBlock from '../components/videoDetailsBlock/videoDetailsBlock'
+import Footer from '../components/footer/footer'
+import ButtonComponent from "../components/buttonComponent/buttonComponent";
 
 function MainBlock() {
   return (
-    <div className="main u-block-structures">
-      Bloque centrado
-    </div>
+    <>
+      <div className="main u-block-structures">
+        <ButtonComponent link="/" text="PREVENTA S/. 5.00"/>
+      </div>
+      <SynopsisBlock />
+      <VideoDetailsBlock />
+      <Footer />
+    </>
   );
 }
 

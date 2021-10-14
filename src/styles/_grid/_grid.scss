@@ -1,5 +1,8 @@
 @import '../_base/base';
-
+.col{
+    display: flex;
+    flex-direction: column;
+}
 .row {
     max-width: $grid-width;
     margin: 0 auto;
@@ -8,6 +11,7 @@
         margin-bottom: $gutter-vertical;
     }
 
+  
     @include clearfix;
     //el ^ significa que todas las clases que tengan ese simbolo se les aplique ese estilo. 
     [class^="col-"] {

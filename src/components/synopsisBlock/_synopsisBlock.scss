@@ -1,0 +1,37 @@
+.synopsisBlock{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    background-color: #000;
+    color: #fff;
+    flex-wrap: wrap;
+    height: 80vh;
+}
+
+.synopsis-text{
+    width: 50%;
+    display: flex;
+    flex: 1;
+    flex-direction: row;
+    justify-content: flex-end;
+    padding-right: 2rem;
+    box-sizing: border-box;
+    p{
+        width: 500px;
+        font-size: 22px;
+        line-height: 34px;
+        text-align: right;
+    }
+}
+
+.synopsis-img{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    background-image: url('https://via.placeholder.com/800x800/000000');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
