@@ -4,7 +4,9 @@ export default function Footer() {
     return(
         <div className="footer">
             <div className="u-grid-block center">
-                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Exercitationem atque ducimus obcaecati mollitia reprehenderit officia inventore fugiat nam eum, nobis alias veritatis aliquam iste at, libero similique enim eius ullam.</p>
+                <p>PRODUCCIONES HEYDRU PLAY PRESENTA FAISER DIRIGIDO POR JUAN FELIPE FERNANDEZ, PRODUCTOR EDURARDO TELAYA</p>
+                <p>DIRECTORA LEIDY MAYTA DIRECTOR DE CAMARA ALEXIS CARBAJAR PRODUCCION DE DISEÑO CIELO INCA</p>
+                <p>Y VICTOR LENGUA EDICION AMADOR VELENZUELA Y LUIS REVOLLAR</p>
             </div>
         </div>
     )    

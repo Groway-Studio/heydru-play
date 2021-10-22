@@ -30,8 +30,11 @@
     display: flex;
     flex: 1;
     flex-direction: column;
-    background-image: url('https://via.placeholder.com/800x800/000000');
+
+    background-image: url('../../assets/sinopsis_1.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+    box-shadow: 0 0 15px 15px black inset;
 }
+
