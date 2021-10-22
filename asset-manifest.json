@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0e7411a6.chunk.css",
+    "main.js": "/static/js/main.0c2447cf.chunk.js",
+    "main.js.map": "/static/js/main.0c2447cf.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a3e6b6c0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a3e6b6c0.js.map",
+    "static/js/2.aa5eb65d.chunk.js": "/static/js/2.aa5eb65d.chunk.js",
+    "static/js/2.aa5eb65d.chunk.js.map": "/static/js/2.aa5eb65d.chunk.js.map",
+    "static/js/3.35d82868.chunk.js": "/static/js/3.35d82868.chunk.js",
+    "static/js/3.35d82868.chunk.js.map": "/static/js/3.35d82868.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.0e7411a6.chunk.css.map": "/static/css/main.0e7411a6.chunk.css.map",
+    "static/js/2.aa5eb65d.chunk.js.LICENSE.txt": "/static/js/2.aa5eb65d.chunk.js.LICENSE.txt",
+    "static/media/main.scss": "/static/media/background_1.bdad2650.png",
+    "static/media/mancha1.93166808.png": "/static/media/mancha1.93166808.png",
+    "static/media/_synopsisBlock.scss": "/static/media/sinopsis_1.6d3468cc.png",
+    "static/media/video_trailer.7d333cad.mp4": "/static/media/video_trailer.7d333cad.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3e6b6c0.js",
+    "static/js/2.aa5eb65d.chunk.js",
+    "static/css/main.0e7411a6.chunk.css",
+    "static/js/main.0c2447cf.chunk.js"
+  ]
+}
