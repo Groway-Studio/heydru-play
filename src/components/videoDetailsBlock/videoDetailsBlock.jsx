@@ -8,10 +8,18 @@ export default function VideoDetailsBlock() {
     <div className="videoDetailsBlock">
       <div className="row video-container">
 
-      <video width="500" height="300" autoPlay loop >
+      {/* <video width="500" height="300" autoPlay loop >
         <source src={videoTrailer} type="video/mp4" />
-      </video>
+        https://www.youtube.com/watch?v=I55GDuaVEes
+      </video> */}
 
+      <iframe src='https://www.youtube.com/embed/I55GDuaVEes'
+              frameborder='0'
+              allow='autoplay; encrypted-media'
+              allowfullscreen
+              title='video'
+              width="500" height="300"
+      />
       </div>
       <div className="row details-pay">
         <div className="col-1-of-2">
