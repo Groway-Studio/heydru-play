@@ -1,10 +1,12 @@
 import './_synopsisBlock.scss'
+
 import backgroundImg1 from '../../assets/mancha1.png';
 
 export default function SynopsisBlock() {
   return (
     <div className="synopsisBlock">
         <div className="synopsis-text">
+
             <p>Una visita al cementerio se convertirá 
               en la peor pesadilla para un grupo de chicos,
               quienes deberán pelear por salir vivos 
@@ -13,6 +15,7 @@ export default function SynopsisBlock() {
         <div className="synopsis-img">
         </div>
         <img  className="synopsis-img--background" alt='' />
+
     </div>
   );
 }

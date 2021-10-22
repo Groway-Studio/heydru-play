@@ -1,7 +1,9 @@
 @import '../styles/index.scss';
 
 .main{
+
     background-image: url('../assets/background_1.png');
+
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -11,6 +13,8 @@
         position: absolute;
         right: 25%;
     }
+
     box-shadow: 0 0 15px 15px black inset;
+
 }
 
